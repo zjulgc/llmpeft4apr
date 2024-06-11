@@ -1,5 +1,5 @@
 
-'======/c21071/lgc/llmpeft4apr/results/Llama_2_7b_hf_prefix-tuning_apr_on_quixbugs_validation_20240409_104655.json results:===='
+'====== llmpeft4apr/results/Llama_2_7b_hf_prefix-tuning_apr_on_quixbugs_validation_20240409_104655.json results:===='
 Model: Llama-2-7b-hf
 PEFT Method: prefix-tuning  
 train_dataset: apr  

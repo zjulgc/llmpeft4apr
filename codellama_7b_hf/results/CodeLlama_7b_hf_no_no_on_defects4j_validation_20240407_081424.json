@@ -1,5 +1,5 @@
 {
-  "patch_file": "/c21071/lgc/llmpeft4apr/results/CodeLlama-7b-hf_direct_on_defects4j_output_20240407_081424.json",
+  "patch_file": " llmpeft4apr/results/CodeLlama-7b-hf_direct_on_defects4j_output_20240407_081424.json",
   "data": {
     "Chart_4_source/org/jfree/chart/plot/XYPlot.java_4493-4493": {
       "0": "uncompilable",

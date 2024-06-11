@@ -1,5 +1,5 @@
 
-'======/c21071/lgc/llmpeft4apr/results/CodeLlama_7b_hf_p-tuning_apr_on_humaneval_validation_20240406_081813.json results:===='
+'====== llmpeft4apr/results/CodeLlama_7b_hf_p-tuning_apr_on_humaneval_validation_20240406_081813.json results:===='
 Model: CodeLlama-7b-hf
 PEFT Method: p-tuning  
 train_dataset: apr  

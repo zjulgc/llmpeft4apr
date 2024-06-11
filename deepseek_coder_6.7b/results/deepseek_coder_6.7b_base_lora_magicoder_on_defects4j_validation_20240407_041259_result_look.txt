@@ -1,5 +1,5 @@
 
-'======/c21071/lgc/llmpeft4apr/results/deepseek_coder_6.7b_base_lora_magicoder_on_defects4j_validation_20240407_041259.json results:===='
+'====== llmpeft4apr/results/deepseek_coder_6.7b_base_lora_magicoder_on_defects4j_validation_20240407_041259.json results:===='
 Model: deepseek-coder-6.7b-base
 PEFT Method: lora  
 train_dataset: magicoder  

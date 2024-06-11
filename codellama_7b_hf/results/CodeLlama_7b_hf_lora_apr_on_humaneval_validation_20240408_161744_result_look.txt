@@ -1,5 +1,5 @@
 
-'======/c21071/lgc/llmpeft4apr/results/CodeLlama_7b_hf_lora_apr_on_humaneval_validation_20240408_161744.json results:===='
+'====== llmpeft4apr/results/CodeLlama_7b_hf_lora_apr_on_humaneval_validation_20240408_161744.json results:===='
 Model: CodeLlama-7b-hf
 PEFT Method: lora  
 train_dataset: apr  

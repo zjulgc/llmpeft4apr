@@ -1,5 +1,5 @@
 {
-  "patch_file": "/c21071/lgc/llmpeft4apr/results/deepseek-coder-6.7b-base_lora_apr_on_defects4j_output_20240407_031228.json",
+  "patch_file": " llmpeft4apr/results/deepseek-coder-6.7b-base_lora_apr_on_defects4j_output_20240407_031228.json",
   "data": {
     "Chart_4_source/org/jfree/chart/plot/XYPlot.java_4493-4493": {
       "0": "wrong",

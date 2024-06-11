@@ -12,7 +12,7 @@ validation result:
 """
 def cal_result(
     # validated_file
-    validated_file: str = "/c21071/lgc/llmpeft4apr/results_new/CodeLlama_7b_hf_apr_new_lora_on_humaneval_validation_24_04_04_11_46_17.json",
+    validated_file: str = " llmpeft4apr/results_new/CodeLlama_7b_hf_apr_new_lora_on_humaneval_validation_24_04_04_11_46_17.json",
     model_type: str = 'CodeLlama-7b-hf',
     peft_type: str = 'lora',
     train_dataset: str = 'apr_new',

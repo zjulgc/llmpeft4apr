@@ -1,5 +1,5 @@
 
-'======/c21071/lgc/llmpeft4apr/results/deepseek_coder_6.7b_base_p-tuning_code_alpaca_on_quixbugs_validation_20240409_103543.json results:===='
+'====== llmpeft4apr/results/deepseek_coder_6.7b_base_p-tuning_code_alpaca_on_quixbugs_validation_20240409_103543.json results:===='
 Model: deepseek-coder-6.7b-base
 PEFT Method: p-tuning  
 train_dataset: code_alpaca  

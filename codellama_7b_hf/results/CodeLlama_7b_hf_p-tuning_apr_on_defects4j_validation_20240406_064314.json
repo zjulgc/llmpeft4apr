@@ -1,5 +1,5 @@
 {
-  "patch_file": "/c21071/lgc/llmpeft4apr/results/CodeLlama-7b-hf_p-tuning_apr_on_defects4j_output_20240406_064314.json",
+  "patch_file": " llmpeft4apr/results/CodeLlama-7b-hf_p-tuning_apr_on_defects4j_output_20240406_064314.json",
   "data": {
     "Chart_4_source/org/jfree/chart/plot/XYPlot.java_4493-4493": {
       "0": "wrong",

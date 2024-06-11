@@ -1,11 +1,11 @@
 #!/bin/bash
 timenow=$(date +\%Y\%m\%d_\%H\%M\%S)
-models_dir="/c21071/lgc/llmpeft4apr/models"
-output_dir="/c21071/lgc/llmpeft4apr/results_hyper_parameters/"
+models_dir=" llmpeft4apr/models"
+output_dir=" llmpeft4apr/results_hyper_parameters/"
 # to modify
 model_type="CodeLlama-7b-hf"
 peft_methods="lora"
-peft_model_weights="/c21071/lgc/llmpeft4apr/codellama_7b_hf/output/lora/20240408_145117/"
+peft_model_weights=" llmpeft4apr/codellama_7b_hf/output/lora/20240408_145117/"
 train_dataset="lora_8_apr"
 
 benchmark_names=("quixbugs" "humaneval" "defects4j")
@@ -16,7 +16,7 @@ for benchmark_name in "${benchmark_names[@]}"; do
     python inference_and_validation_src/peft_generate_patch.py \
     --output_file_name $output_file_name \
     --train_dataset "$train_dataset" \
-    --benchmark_data "/c21071/lgc/llmpeft4apr/validation_benchmark_dataset/$benchmark_name.json" \
+    --benchmark_data " llmpeft4apr/validation_benchmark_dataset/$benchmark_name.json" \
     --benchmark_name $benchmark_name \
     --output_dir "$output_dir" \
     --model_type "$model_type" \
@@ -29,12 +29,12 @@ for benchmark_name in "${benchmark_names[@]}"; do
     --max_seq_len 1024 
 done
 
-base_tmp_dir='/c21071/lgc/llmpeft4apr/tmp_benchmark'
+base_tmp_dir=' llmpeft4apr/tmp_benchmark'
 echo "Start validation..."
 for benchmark_name in "${benchmark_names[@]}"; do
     output_file_name=$model_type'_'$peft_methods'_'$train_dataset'_on_'$benchmark_name'_output_'$timenow'.json'
     if [ "$benchmark_name" = "humaneval" ]; then
-        benchmark_dir="/c21071/lgc/llmpeft4apr/validation_benchmark_dataset/benchmarks/humaneval-java/"
+        benchmark_dir=" llmpeft4apr/validation_benchmark_dataset/benchmarks/humaneval-java/"
         tmp_dir=$benchmark_name'_'$timenow
         cp -r $benchmark_dir $base_tmp_dir'/'$tmp_dir'/'
         python inference_and_validation_src/peft_patch_validation.py \
@@ -47,7 +47,7 @@ for benchmark_name in "${benchmark_names[@]}"; do
         --train_dataset $train_dataset
         rm -rf $base_tmp_dir'/'$tmp_dir'/'
     elif [ "$benchmark_name" = "quixbugs" ]; then
-        benchmark_dir='/c21071/lgc/llmpeft4apr/validation_benchmark_dataset/benchmarks/quixbugs/'
+        benchmark_dir=' llmpeft4apr/validation_benchmark_dataset/benchmarks/quixbugs/'
         tmp_dir=$benchmark_name'_'$timenow
         cp -r $benchmark_dir $base_tmp_dir'/'$tmp_dir
         python inference_and_validation_src/peft_patch_validation.py \

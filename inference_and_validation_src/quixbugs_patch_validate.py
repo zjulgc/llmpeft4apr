@@ -76,12 +76,12 @@ def compile_fix(filename, tmp_dir):
 def validate_quixbugs(
     #patches generated, json file
     #make sure format of  ouput patch
-    input_file: str = "/c21071/lgc/llmpeft4apr/codellama_7b_hf/result/CodeLlama_7b_hf_lora_on_quixbugs_output_patches_1709040073.5193715.json", 
-    output_dir: str = "/c21071/lgc/llmpeft4apr/codellama_7b_hf/result/", #validation results
+    input_file: str = " llmpeft4apr/codellama_7b_hf/result/CodeLlama_7b_hf_lora_on_quixbugs_output_patches_1709040073.5193715.json", 
+    output_dir: str = " llmpeft4apr/codellama_7b_hf/result/", #validation results
     benchmark_name: str = "quixbugs",
     model_type: str = "CodeLlama-7b-hf",
     peft_type: str = "lora",
-    tmp_dir: str = '/c21071/lgc/llmpeft4apr/validation_benchmark_dataset/benchmarks/quixbugs_tmp',
+    tmp_dir: str = ' llmpeft4apr/validation_benchmark_dataset/benchmarks/quixbugs_tmp',
     train_dataset: str = "apr"
     ):
     validation_file = output_dir + '_'.join(model_type.split('-')) + '_' + peft_type + '_' + train_dataset + '_on_' + benchmark_name + '_validation_' + datetime.now().strftime('%Y%m%d_%H%M%S') + '.json'

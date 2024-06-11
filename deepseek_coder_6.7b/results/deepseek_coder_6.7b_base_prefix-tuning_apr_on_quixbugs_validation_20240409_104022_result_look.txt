@@ -1,5 +1,5 @@
 
-'======/c21071/lgc/llmpeft4apr/results/deepseek_coder_6.7b_base_prefix-tuning_apr_on_quixbugs_validation_20240409_104022.json results:===='
+'====== llmpeft4apr/results/deepseek_coder_6.7b_base_prefix-tuning_apr_on_quixbugs_validation_20240409_104022.json results:===='
 Model: deepseek-coder-6.7b-base
 PEFT Method: prefix-tuning  
 train_dataset: apr  

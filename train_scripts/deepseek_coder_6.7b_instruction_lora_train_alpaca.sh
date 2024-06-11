@@ -1,10 +1,10 @@
 timenow=$(date +\%Y\%m\%d_\%H\%M\%S)
 # dir="./"
-models_dir="/c21071/lgc/llmpeft4apr/models"
-datasets_dir="/c21071/lgc/llmpeft4apr/instruction_tuning_dataset/"
+models_dir=" llmpeft4apr/models"
+datasets_dir=" llmpeft4apr/instruction_tuning_dataset/"
 model_type="deepseek-coder-6.7b-base"
 peft_methods="lora"
-save_dir="/c21071/lgc/llmpeft4apr/deepseek_coder_6.7b/output/$peft_methods/$timenow"
+save_dir=" llmpeft4apr/deepseek_coder_6.7b/output/$peft_methods/$timenow"
 # LoRA hyper-parameters
 lora_r=32
 lora_alpha=16
@@ -33,7 +33,7 @@ mkdir -p "$save_dir"
 # --save_dir "$save_dir" \
 # --dataset_dir "$datasets_dir" \
 # --oss_dataset_path "apr_instruction_total_new.json" \
-# --cache_dir "/c21071/lgc/.cache" \
+# --cache_dir " .cache" \
 # --max_seq_len 1000 \
 # --num_train_epochs 5 \
 # --train_batch_size 3 \
@@ -65,7 +65,7 @@ python train_src/sfttrain_peft.py \
 --save_dir "$save_dir" \
 --dataset_dir "$datasets_dir" \
 --oss_dataset_path "code_alpaca_20k.json" \
---cache_dir "/c21071/lgc/.cache" \
+--cache_dir " .cache" \
 --max_seq_len 1000 \
 --num_train_epochs 5 \
 --train_batch_size 3 \

@@ -35,9 +35,9 @@ def recopy_proj_code_and_test_case(benchmark_dir, proj, benchmark_name):
 def validate_humaneval(
     #patches generated, json file
     #make sure format of  ouput patch
-    input_file: str = "/c21071/lgc/llmpeft4apr/results/deepseek_coder_6.7b_base_apr_p-tuning_on_humaneval_output_24_03_31_13_27_27.json", 
-    output_dir: str = "/c21071/lgc/llmpeft4apr/results/", #validation results
-    benchmark_dir: str = "/c21071/lgc/llmpeft4apr/validation_benchmark_dataset/benchmarks/humaneval-java/", #test suits
+    input_file: str = " llmpeft4apr/results/deepseek_coder_6.7b_base_apr_p-tuning_on_humaneval_output_24_03_31_13_27_27.json", 
+    output_dir: str = " llmpeft4apr/results/", #validation results
+    benchmark_dir: str = " llmpeft4apr/validation_benchmark_dataset/benchmarks/humaneval-java/", #test suits
     benchmark_name: str = "humaneval",
     model_type: str = "deepseek-coder-6.7b-base",
     peft_type: str = "lora",

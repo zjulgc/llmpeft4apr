@@ -6,10 +6,10 @@ from  defects4j_patch_validate import validate_defects4j
 from result_look import cal_result
 
 def peft_patch_validation(
-    input_file: str = "/c21071/lgc/llmpeft4apr/results/deepseek_coder_6.7b_base_apr_p-tuning_on_humaneval_output_24_03_31_13_27_27.json", 
-    output_dir: str = "/c21071/lgc/llmpeft4apr/results/", #validation results
-    # copy from /c21071/lgc/llmpeft4apr/validation_benchmark_dataset/benchmarks/humaneval-java
-    benchmark_dir: str = "/c21071/lgc/llmpeft4apr/validation_benchmark_dataset/benchmarks/humaneval-java/", #test suits
+    input_file: str = " llmpeft4apr/results/deepseek_coder_6.7b_base_apr_p-tuning_on_humaneval_output_24_03_31_13_27_27.json", 
+    output_dir: str = " llmpeft4apr/results/", #validation results
+    # copy from  llmpeft4apr/validation_benchmark_dataset/benchmarks/humaneval-java
+    benchmark_dir: str = " llmpeft4apr/validation_benchmark_dataset/benchmarks/humaneval-java/", #test suits
     benchmark_name: str = "humaneval",
     model_type: str = "deepseek-coder-6.7b-base",
     peft_type: str = "lora",

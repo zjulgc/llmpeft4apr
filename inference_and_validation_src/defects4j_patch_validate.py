@@ -68,7 +68,7 @@ def validate_defects4j(
     benchmark_name: str = "defects4j",
     model_type: str = "CodeLlama-7b-hf",
     peft_type: str = "lora",
-    tmp_dir: str = '/c21071/lgc/llmpeft4apr/validation_benchmark_dataset/benchmarks/tmp_dir/',
+    tmp_dir: str = ' llmpeft4apr/validation_benchmark_dataset/benchmarks/tmp_dir/',
     train_dataset: str = "apr",
     validation_time: str = ""
     ):
