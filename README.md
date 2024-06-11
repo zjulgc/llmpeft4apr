@@ -29,6 +29,10 @@
 ## Content
 The file structure of the artifact is as follow:
 
+### APR-INSTRUCTION_construct;
+
+- contains source code of constructing `APR-INSTRUCTION` ,base existing APR dataset[1]
+
 ### **codellama_7b_hf:**  
 
 - **output:** peft weights by different peft method(lora, p-tuning，prefix tuning , $(IA)^3$ and Full-model Fine-tuning
@@ -110,4 +114,8 @@ The file structure of the artifact is as follow:
 
 
 ## Cites  
+
+```
+[1] Zhu, Qihao, et al. "A syntax-guided edit decoder for neural program repair." Proceedings of the 29th ACM joint meeting on European software engineering conference and symposium on the foundations of software engineering. 2021.
+```
 
