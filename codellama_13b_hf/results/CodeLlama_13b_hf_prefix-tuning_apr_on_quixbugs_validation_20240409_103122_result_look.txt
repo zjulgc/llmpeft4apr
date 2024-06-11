@@ -1,0 +1,18 @@
+
+'======/c21071/lgc/llmpeft4apr/results/CodeLlama_13b_hf_prefix-tuning_apr_on_quixbugs_validation_20240409_103122.json results:===='
+Model: CodeLlama-13b-hf
+PEFT Method: prefix-tuning  
+train_dataset: apr  
+validation benchmark : quixbugs 
+validation result: 
+pass@0:plausible pathces - 0, total  problems - 40, correctness pecent - 0.0
+pass@1:plausible pathces - 0, total  problems - 40, correctness pecent - 0.0
+pass@2:plausible pathces - 1, total  problems - 40, correctness pecent - 0.025
+pass@3:plausible pathces - 2, total  problems - 40, correctness pecent - 0.05
+pass@4:plausible pathces - 5, total  problems - 40, correctness pecent - 0.125
+pass@5:plausible pathces - 6, total  problems - 40, correctness pecent - 0.15
+pass@6:plausible pathces - 8, total  problems - 40, correctness pecent - 0.2
+pass@7:plausible pathces - 9, total  problems - 40, correctness pecent - 0.225
+pass@8:plausible pathces - 10, total  problems - 40, correctness pecent - 0.25
+pass@9:plausible pathces - 11, total  problems - 40, correctness pecent - 0.275
+pass@10:plausible pathces - 11, total  problems - 40, correctness pecent - 0.275

@@ -1,0 +1,18 @@
+
+'======/c21071/lgc/llmpeft4apr/results/deepseek_coder_6.7b_base_lora_apr_on_defects4j_validation_20240407_031228.json results:===='
+Model: deepseek-coder-6.7b-base
+PEFT Method: lora  
+train_dataset: apr  
+validation benchmark : defects4j 
+validation result: 
+pass@0:plausible pathces - 0, total  problems - 217, correctness pecent - 0.0
+pass@1:plausible pathces - 22, total  problems - 217, correctness pecent - 0.10138248847926268
+pass@2:plausible pathces - 43, total  problems - 217, correctness pecent - 0.19815668202764977
+pass@3:plausible pathces - 52, total  problems - 217, correctness pecent - 0.23963133640552994
+pass@4:plausible pathces - 66, total  problems - 217, correctness pecent - 0.30414746543778803
+pass@5:plausible pathces - 69, total  problems - 217, correctness pecent - 0.31797235023041476
+pass@6:plausible pathces - 74, total  problems - 217, correctness pecent - 0.34101382488479265
+pass@7:plausible pathces - 79, total  problems - 217, correctness pecent - 0.3640552995391705
+pass@8:plausible pathces - 81, total  problems - 217, correctness pecent - 0.37327188940092165
+pass@9:plausible pathces - 84, total  problems - 217, correctness pecent - 0.3870967741935484
+pass@10:plausible pathces - 92, total  problems - 217, correctness pecent - 0.423963133640553

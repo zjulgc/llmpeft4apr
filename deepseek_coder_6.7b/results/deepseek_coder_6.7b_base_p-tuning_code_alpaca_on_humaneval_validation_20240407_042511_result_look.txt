@@ -1,0 +1,18 @@
+
+'======/c21071/lgc/llmpeft4apr/results/deepseek_coder_6.7b_base_p-tuning_code_alpaca_on_humaneval_validation_20240407_042511.json results:===='
+Model: deepseek-coder-6.7b-base
+PEFT Method: p-tuning  
+train_dataset: code_alpaca  
+validation benchmark : humaneval 
+validation result: 
+pass@0:plausible pathces - 0, total  problems - 163, correctness pecent - 0.0
+pass@1:plausible pathces - 69, total  problems - 163, correctness pecent - 0.4233128834355828
+pass@2:plausible pathces - 77, total  problems - 163, correctness pecent - 0.4723926380368098
+pass@3:plausible pathces - 83, total  problems - 163, correctness pecent - 0.50920245398773
+pass@4:plausible pathces - 87, total  problems - 163, correctness pecent - 0.5337423312883436
+pass@5:plausible pathces - 89, total  problems - 163, correctness pecent - 0.5460122699386503
+pass@6:plausible pathces - 91, total  problems - 163, correctness pecent - 0.558282208588957
+pass@7:plausible pathces - 92, total  problems - 163, correctness pecent - 0.5644171779141104
+pass@8:plausible pathces - 94, total  problems - 163, correctness pecent - 0.5766871165644172
+pass@9:plausible pathces - 96, total  problems - 163, correctness pecent - 0.588957055214724
+pass@10:plausible pathces - 96, total  problems - 163, correctness pecent - 0.588957055214724

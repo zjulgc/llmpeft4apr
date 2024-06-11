@@ -1,0 +1,18 @@
+
+'======/c21071/lgc/llmpeft4apr/results/Llama_2_7b_hf_prefix-tuning_apr_on_humaneval_validation_20240407_052759.json results:===='
+Model: Llama-2-7b-hf
+PEFT Method: prefix-tuning  
+train_dataset: apr  
+validation benchmark : humaneval 
+validation result: 
+pass@0:plausible pathces - 0, total  problems - 163, correctness pecent - 0.0
+pass@1:plausible pathces - 12, total  problems - 163, correctness pecent - 0.0736196319018405
+pass@2:plausible pathces - 12, total  problems - 163, correctness pecent - 0.0736196319018405
+pass@3:plausible pathces - 12, total  problems - 163, correctness pecent - 0.0736196319018405
+pass@4:plausible pathces - 12, total  problems - 163, correctness pecent - 0.0736196319018405
+pass@5:plausible pathces - 12, total  problems - 163, correctness pecent - 0.0736196319018405
+pass@6:plausible pathces - 12, total  problems - 163, correctness pecent - 0.0736196319018405
+pass@7:plausible pathces - 12, total  problems - 163, correctness pecent - 0.0736196319018405
+pass@8:plausible pathces - 12, total  problems - 163, correctness pecent - 0.0736196319018405
+pass@9:plausible pathces - 12, total  problems - 163, correctness pecent - 0.0736196319018405
+pass@10:plausible pathces - 12, total  problems - 163, correctness pecent - 0.0736196319018405

@@ -1,0 +1,18 @@
+
+'======/c21071/lgc/llmpeft4apr/results/CodeLlama_7b_hf_fmft_apr_on_quixbugs_validation_20240410_000343.json results:===='
+Model: CodeLlama-7b-hf
+PEFT Method: fmft  
+train_dataset: apr  
+validation benchmark : quixbugs 
+validation result: 
+pass@0:plausible pathces - 0, total  problems - 40, correctness pecent - 0.0
+pass@1:plausible pathces - 0, total  problems - 40, correctness pecent - 0.0
+pass@2:plausible pathces - 3, total  problems - 40, correctness pecent - 0.075
+pass@3:plausible pathces - 6, total  problems - 40, correctness pecent - 0.15
+pass@4:plausible pathces - 9, total  problems - 40, correctness pecent - 0.225
+pass@5:plausible pathces - 12, total  problems - 40, correctness pecent - 0.3
+pass@6:plausible pathces - 14, total  problems - 40, correctness pecent - 0.35
+pass@7:plausible pathces - 14, total  problems - 40, correctness pecent - 0.35
+pass@8:plausible pathces - 15, total  problems - 40, correctness pecent - 0.375
+pass@9:plausible pathces - 15, total  problems - 40, correctness pecent - 0.375
+pass@10:plausible pathces - 15, total  problems - 40, correctness pecent - 0.375

@@ -1,0 +1,18 @@
+
+'======/c21071/lgc/llmpeft4apr/results/deepseek_coder_6.7b_base_lora_apr_on_quixbugs_validation_20240410_132259.json results:===='
+Model: deepseek-coder-6.7b-base
+PEFT Method: lora  
+train_dataset: apr  
+validation benchmark : quixbugs 
+validation result: 
+pass@0:plausible pathces - 0, total  problems - 40, correctness pecent - 0.0
+pass@1:plausible pathces - 0, total  problems - 40, correctness pecent - 0.0
+pass@2:plausible pathces - 20, total  problems - 40, correctness pecent - 0.5
+pass@3:plausible pathces - 27, total  problems - 40, correctness pecent - 0.675
+pass@4:plausible pathces - 28, total  problems - 40, correctness pecent - 0.7
+pass@5:plausible pathces - 29, total  problems - 40, correctness pecent - 0.725
+pass@6:plausible pathces - 29, total  problems - 40, correctness pecent - 0.725
+pass@7:plausible pathces - 29, total  problems - 40, correctness pecent - 0.725
+pass@8:plausible pathces - 29, total  problems - 40, correctness pecent - 0.725
+pass@9:plausible pathces - 29, total  problems - 40, correctness pecent - 0.725
+pass@10:plausible pathces - 30, total  problems - 40, correctness pecent - 0.75

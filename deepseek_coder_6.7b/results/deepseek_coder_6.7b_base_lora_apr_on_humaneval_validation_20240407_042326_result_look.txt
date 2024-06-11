@@ -1,0 +1,18 @@
+
+'======/c21071/lgc/llmpeft4apr/results/deepseek_coder_6.7b_base_lora_apr_on_humaneval_validation_20240407_042326.json results:===='
+Model: deepseek-coder-6.7b-base
+PEFT Method: lora  
+train_dataset: apr  
+validation benchmark : humaneval 
+validation result: 
+pass@0:plausible pathces - 0, total  problems - 163, correctness pecent - 0.0
+pass@1:plausible pathces - 70, total  problems - 163, correctness pecent - 0.4294478527607362
+pass@2:plausible pathces - 81, total  problems - 163, correctness pecent - 0.49693251533742333
+pass@3:plausible pathces - 89, total  problems - 163, correctness pecent - 0.5460122699386503
+pass@4:plausible pathces - 94, total  problems - 163, correctness pecent - 0.5766871165644172
+pass@5:plausible pathces - 102, total  problems - 163, correctness pecent - 0.6257668711656442
+pass@6:plausible pathces - 105, total  problems - 163, correctness pecent - 0.6441717791411042
+pass@7:plausible pathces - 106, total  problems - 163, correctness pecent - 0.6503067484662577
+pass@8:plausible pathces - 108, total  problems - 163, correctness pecent - 0.6625766871165644
+pass@9:plausible pathces - 108, total  problems - 163, correctness pecent - 0.6625766871165644
+pass@10:plausible pathces - 109, total  problems - 163, correctness pecent - 0.6687116564417178

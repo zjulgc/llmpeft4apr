@@ -1,0 +1,18 @@
+
+'======/c21071/lgc/llmpeft4apr/results/CodeLlama_7b_hf_lora_magicoder_on_humaneval_validation_20240406_035728.json results:===='
+Model: CodeLlama-7b-hf
+PEFT Method: lora  
+train_dataset: magicoder  
+validation benchmark : humaneval 
+validation result: 
+pass@0:plausible pathces - 0, total  problems - 163, correctness pecent - 0.0
+pass@1:plausible pathces - 52, total  problems - 163, correctness pecent - 0.31901840490797545
+pass@2:plausible pathces - 71, total  problems - 163, correctness pecent - 0.43558282208588955
+pass@3:plausible pathces - 78, total  problems - 163, correctness pecent - 0.4785276073619632
+pass@4:plausible pathces - 84, total  problems - 163, correctness pecent - 0.5153374233128835
+pass@5:plausible pathces - 85, total  problems - 163, correctness pecent - 0.5214723926380368
+pass@6:plausible pathces - 88, total  problems - 163, correctness pecent - 0.5398773006134969
+pass@7:plausible pathces - 91, total  problems - 163, correctness pecent - 0.558282208588957
+pass@8:plausible pathces - 95, total  problems - 163, correctness pecent - 0.5828220858895705
+pass@9:plausible pathces - 96, total  problems - 163, correctness pecent - 0.588957055214724
+pass@10:plausible pathces - 97, total  problems - 163, correctness pecent - 0.5950920245398773

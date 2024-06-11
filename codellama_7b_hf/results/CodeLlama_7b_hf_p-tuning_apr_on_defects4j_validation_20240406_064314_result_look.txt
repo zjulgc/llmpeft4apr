@@ -1,0 +1,18 @@
+
+'======/c21071/lgc/llmpeft4apr/results/CodeLlama_7b_hf_p-tuning_apr_on_defects4j_validation_20240406_064314.json results:===='
+Model: CodeLlama-7b-hf
+PEFT Method: p-tuning  
+train_dataset: apr  
+validation benchmark : defects4j 
+validation result: 
+pass@0:plausible pathces - 0, total  problems - 217, correctness pecent - 0.0
+pass@1:plausible pathces - 14, total  problems - 217, correctness pecent - 0.06451612903225806
+pass@2:plausible pathces - 32, total  problems - 217, correctness pecent - 0.14746543778801843
+pass@3:plausible pathces - 43, total  problems - 217, correctness pecent - 0.19815668202764977
+pass@4:plausible pathces - 49, total  problems - 217, correctness pecent - 0.22580645161290322
+pass@5:plausible pathces - 60, total  problems - 217, correctness pecent - 0.2764976958525346
+pass@6:plausible pathces - 66, total  problems - 217, correctness pecent - 0.30414746543778803
+pass@7:plausible pathces - 69, total  problems - 217, correctness pecent - 0.31797235023041476
+pass@8:plausible pathces - 75, total  problems - 217, correctness pecent - 0.3456221198156682
+pass@9:plausible pathces - 81, total  problems - 217, correctness pecent - 0.37327188940092165
+pass@10:plausible pathces - 85, total  problems - 217, correctness pecent - 0.391705069124424

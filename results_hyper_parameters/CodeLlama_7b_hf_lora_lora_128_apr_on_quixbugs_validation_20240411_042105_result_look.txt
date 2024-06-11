@@ -1,0 +1,18 @@
+
+'======/c21071/lgc/llmpeft4apr/results_hyper_parameters/CodeLlama_7b_hf_lora_lora_128_apr_on_quixbugs_validation_20240411_042105.json results:===='
+Model: CodeLlama-7b-hf
+PEFT Method: lora  
+train_dataset: lora_128_apr  
+validation benchmark : quixbugs 
+validation result: 
+pass@0:plausible pathces - 0, total  problems - 40, correctness pecent - 0.0
+pass@1:plausible pathces - 0, total  problems - 40, correctness pecent - 0.0
+pass@2:plausible pathces - 14, total  problems - 40, correctness pecent - 0.35
+pass@3:plausible pathces - 18, total  problems - 40, correctness pecent - 0.45
+pass@4:plausible pathces - 20, total  problems - 40, correctness pecent - 0.5
+pass@5:plausible pathces - 21, total  problems - 40, correctness pecent - 0.525
+pass@6:plausible pathces - 22, total  problems - 40, correctness pecent - 0.55
+pass@7:plausible pathces - 24, total  problems - 40, correctness pecent - 0.6
+pass@8:plausible pathces - 24, total  problems - 40, correctness pecent - 0.6
+pass@9:plausible pathces - 24, total  problems - 40, correctness pecent - 0.6
+pass@10:plausible pathces - 26, total  problems - 40, correctness pecent - 0.65

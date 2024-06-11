@@ -1,0 +1,18 @@
+
+'======/c21071/lgc/llmpeft4apr/results/deepseek_coder_6.7b_base_p-tuning_magicoder_on_humaneval_validation_20240407_052439.json results:===='
+Model: deepseek-coder-6.7b-base
+PEFT Method: p-tuning  
+train_dataset: magicoder  
+validation benchmark : humaneval 
+validation result: 
+pass@0:plausible pathces - 0, total  problems - 163, correctness pecent - 0.0
+pass@1:plausible pathces - 61, total  problems - 163, correctness pecent - 0.37423312883435583
+pass@2:plausible pathces - 73, total  problems - 163, correctness pecent - 0.44785276073619634
+pass@3:plausible pathces - 88, total  problems - 163, correctness pecent - 0.5398773006134969
+pass@4:plausible pathces - 91, total  problems - 163, correctness pecent - 0.558282208588957
+pass@5:plausible pathces - 95, total  problems - 163, correctness pecent - 0.5828220858895705
+pass@6:plausible pathces - 97, total  problems - 163, correctness pecent - 0.5950920245398773
+pass@7:plausible pathces - 99, total  problems - 163, correctness pecent - 0.6073619631901841
+pass@8:plausible pathces - 100, total  problems - 163, correctness pecent - 0.6134969325153374
+pass@9:plausible pathces - 100, total  problems - 163, correctness pecent - 0.6134969325153374
+pass@10:plausible pathces - 102, total  problems - 163, correctness pecent - 0.6257668711656442

@@ -1,0 +1,18 @@
+
+'======/c21071/lgc/llmpeft4apr/results/CodeLlama_13b_hf_IA3_apr_on_humaneval_validation_20240407_075054.json results:===='
+Model: CodeLlama-13b-hf
+PEFT Method: IA3  
+train_dataset: apr  
+validation benchmark : humaneval 
+validation result: 
+pass@0:plausible pathces - 0, total  problems - 163, correctness pecent - 0.0
+pass@1:plausible pathces - 55, total  problems - 163, correctness pecent - 0.3374233128834356
+pass@2:plausible pathces - 71, total  problems - 163, correctness pecent - 0.43558282208588955
+pass@3:plausible pathces - 78, total  problems - 163, correctness pecent - 0.4785276073619632
+pass@4:plausible pathces - 83, total  problems - 163, correctness pecent - 0.50920245398773
+pass@5:plausible pathces - 89, total  problems - 163, correctness pecent - 0.5460122699386503
+pass@6:plausible pathces - 93, total  problems - 163, correctness pecent - 0.5705521472392638
+pass@7:plausible pathces - 94, total  problems - 163, correctness pecent - 0.5766871165644172
+pass@8:plausible pathces - 95, total  problems - 163, correctness pecent - 0.5828220858895705
+pass@9:plausible pathces - 96, total  problems - 163, correctness pecent - 0.588957055214724
+pass@10:plausible pathces - 97, total  problems - 163, correctness pecent - 0.5950920245398773

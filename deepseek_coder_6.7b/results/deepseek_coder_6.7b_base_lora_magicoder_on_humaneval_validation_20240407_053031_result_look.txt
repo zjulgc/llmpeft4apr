@@ -1,0 +1,18 @@
+
+'======/c21071/lgc/llmpeft4apr/results/deepseek_coder_6.7b_base_lora_magicoder_on_humaneval_validation_20240407_053031.json results:===='
+Model: deepseek-coder-6.7b-base
+PEFT Method: lora  
+train_dataset: magicoder  
+validation benchmark : humaneval 
+validation result: 
+pass@0:plausible pathces - 0, total  problems - 163, correctness pecent - 0.0
+pass@1:plausible pathces - 63, total  problems - 163, correctness pecent - 0.38650306748466257
+pass@2:plausible pathces - 77, total  problems - 163, correctness pecent - 0.4723926380368098
+pass@3:plausible pathces - 84, total  problems - 163, correctness pecent - 0.5153374233128835
+pass@4:plausible pathces - 92, total  problems - 163, correctness pecent - 0.5644171779141104
+pass@5:plausible pathces - 99, total  problems - 163, correctness pecent - 0.6073619631901841
+pass@6:plausible pathces - 101, total  problems - 163, correctness pecent - 0.6196319018404908
+pass@7:plausible pathces - 103, total  problems - 163, correctness pecent - 0.6319018404907976
+pass@8:plausible pathces - 105, total  problems - 163, correctness pecent - 0.6441717791411042
+pass@9:plausible pathces - 108, total  problems - 163, correctness pecent - 0.6625766871165644
+pass@10:plausible pathces - 109, total  problems - 163, correctness pecent - 0.6687116564417178

@@ -1,0 +1,18 @@
+
+'======/c21071/lgc/llmpeft4apr/results_hyper_parameters/CodeLlama_7b_hf_IA3_apr_2.5w_on_quixbugs_validation_20240411_055438.json results:===='
+Model: CodeLlama-7b-hf
+PEFT Method: IA3  
+train_dataset: apr_2.5w  
+validation benchmark : quixbugs 
+validation result: 
+pass@0:plausible pathces - 0, total  problems - 40, correctness pecent - 0.0
+pass@1:plausible pathces - 0, total  problems - 40, correctness pecent - 0.0
+pass@2:plausible pathces - 7, total  problems - 40, correctness pecent - 0.175
+pass@3:plausible pathces - 15, total  problems - 40, correctness pecent - 0.375
+pass@4:plausible pathces - 21, total  problems - 40, correctness pecent - 0.525
+pass@5:plausible pathces - 21, total  problems - 40, correctness pecent - 0.525
+pass@6:plausible pathces - 22, total  problems - 40, correctness pecent - 0.55
+pass@7:plausible pathces - 22, total  problems - 40, correctness pecent - 0.55
+pass@8:plausible pathces - 23, total  problems - 40, correctness pecent - 0.575
+pass@9:plausible pathces - 23, total  problems - 40, correctness pecent - 0.575
+pass@10:plausible pathces - 24, total  problems - 40, correctness pecent - 0.6

@@ -1,0 +1,18 @@
+
+'======/c21071/lgc/llmpeft4apr/results/CodeLlama_13b_hf_prefix-tuning_apr_on_humaneval_validation_20240407_095537.json results:===='
+Model: CodeLlama-13b-hf
+PEFT Method: prefix-tuning  
+train_dataset: apr  
+validation benchmark : humaneval 
+validation result: 
+pass@0:plausible pathces - 0, total  problems - 163, correctness pecent - 0.0
+pass@1:plausible pathces - 4, total  problems - 163, correctness pecent - 0.024539877300613498
+pass@2:plausible pathces - 7, total  problems - 163, correctness pecent - 0.04294478527607362
+pass@3:plausible pathces - 11, total  problems - 163, correctness pecent - 0.06748466257668712
+pass@4:plausible pathces - 12, total  problems - 163, correctness pecent - 0.0736196319018405
+pass@5:plausible pathces - 13, total  problems - 163, correctness pecent - 0.07975460122699386
+pass@6:plausible pathces - 14, total  problems - 163, correctness pecent - 0.08588957055214724
+pass@7:plausible pathces - 15, total  problems - 163, correctness pecent - 0.09202453987730061
+pass@8:plausible pathces - 16, total  problems - 163, correctness pecent - 0.09815950920245399
+pass@9:plausible pathces - 16, total  problems - 163, correctness pecent - 0.09815950920245399
+pass@10:plausible pathces - 16, total  problems - 163, correctness pecent - 0.09815950920245399

@@ -1,0 +1,18 @@
+
+'======/c21071/lgc/llmpeft4apr/results/deepseek_coder_6.7b_base_IA3_apr_on_quixbugs_validation_20240409_092121.json results:===='
+Model: deepseek-coder-6.7b-base
+PEFT Method: IA3  
+train_dataset: apr  
+validation benchmark : quixbugs 
+validation result: 
+pass@0:plausible pathces - 0, total  problems - 40, correctness pecent - 0.0
+pass@1:plausible pathces - 1, total  problems - 40, correctness pecent - 0.025
+pass@2:plausible pathces - 14, total  problems - 40, correctness pecent - 0.35
+pass@3:plausible pathces - 23, total  problems - 40, correctness pecent - 0.575
+pass@4:plausible pathces - 25, total  problems - 40, correctness pecent - 0.625
+pass@5:plausible pathces - 29, total  problems - 40, correctness pecent - 0.725
+pass@6:plausible pathces - 30, total  problems - 40, correctness pecent - 0.75
+pass@7:plausible pathces - 33, total  problems - 40, correctness pecent - 0.825
+pass@8:plausible pathces - 33, total  problems - 40, correctness pecent - 0.825
+pass@9:plausible pathces - 33, total  problems - 40, correctness pecent - 0.825
+pass@10:plausible pathces - 34, total  problems - 40, correctness pecent - 0.85

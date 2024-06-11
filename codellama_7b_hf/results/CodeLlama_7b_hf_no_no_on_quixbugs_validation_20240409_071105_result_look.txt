@@ -1,0 +1,18 @@
+
+'======/c21071/lgc/llmpeft4apr/results/CodeLlama_7b_hf_no_no_on_quixbugs_validation_20240409_071105.json results:===='
+Model: CodeLlama-7b-hf
+PEFT Method: no  
+train_dataset: no  
+validation benchmark : quixbugs 
+validation result: 
+pass@0:plausible pathces - 0, total  problems - 40, correctness pecent - 0.0
+pass@1:plausible pathces - 0, total  problems - 40, correctness pecent - 0.0
+pass@2:plausible pathces - 15, total  problems - 40, correctness pecent - 0.375
+pass@3:plausible pathces - 17, total  problems - 40, correctness pecent - 0.425
+pass@4:plausible pathces - 17, total  problems - 40, correctness pecent - 0.425
+pass@5:plausible pathces - 18, total  problems - 40, correctness pecent - 0.45
+pass@6:plausible pathces - 18, total  problems - 40, correctness pecent - 0.45
+pass@7:plausible pathces - 18, total  problems - 40, correctness pecent - 0.45
+pass@8:plausible pathces - 18, total  problems - 40, correctness pecent - 0.45
+pass@9:plausible pathces - 18, total  problems - 40, correctness pecent - 0.45
+pass@10:plausible pathces - 18, total  problems - 40, correctness pecent - 0.45

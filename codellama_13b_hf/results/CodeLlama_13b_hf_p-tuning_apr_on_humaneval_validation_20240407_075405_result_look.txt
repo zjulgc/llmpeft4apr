@@ -1,0 +1,18 @@
+
+'======/c21071/lgc/llmpeft4apr/results/CodeLlama_13b_hf_p-tuning_apr_on_humaneval_validation_20240407_075405.json results:===='
+Model: CodeLlama-13b-hf
+PEFT Method: p-tuning  
+train_dataset: apr  
+validation benchmark : humaneval 
+validation result: 
+pass@0:plausible pathces - 0, total  problems - 163, correctness pecent - 0.0
+pass@1:plausible pathces - 36, total  problems - 163, correctness pecent - 0.22085889570552147
+pass@2:plausible pathces - 51, total  problems - 163, correctness pecent - 0.3128834355828221
+pass@3:plausible pathces - 57, total  problems - 163, correctness pecent - 0.3496932515337423
+pass@4:plausible pathces - 68, total  problems - 163, correctness pecent - 0.4171779141104294
+pass@5:plausible pathces - 76, total  problems - 163, correctness pecent - 0.4662576687116564
+pass@6:plausible pathces - 80, total  problems - 163, correctness pecent - 0.49079754601226994
+pass@7:plausible pathces - 83, total  problems - 163, correctness pecent - 0.50920245398773
+pass@8:plausible pathces - 85, total  problems - 163, correctness pecent - 0.5214723926380368
+pass@9:plausible pathces - 86, total  problems - 163, correctness pecent - 0.5276073619631901
+pass@10:plausible pathces - 86, total  problems - 163, correctness pecent - 0.5276073619631901

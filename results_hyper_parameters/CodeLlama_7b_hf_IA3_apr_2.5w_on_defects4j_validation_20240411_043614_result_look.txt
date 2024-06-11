@@ -1,0 +1,18 @@
+
+'======/c21071/lgc/llmpeft4apr/results_hyper_parameters/CodeLlama_7b_hf_IA3_apr_2.5w_on_defects4j_validation_20240411_043614.json results:===='
+Model: CodeLlama-7b-hf
+PEFT Method: IA3  
+train_dataset: apr_2.5w  
+validation benchmark : defects4j 
+validation result: 
+pass@0:plausible pathces - 0, total  problems - 217, correctness pecent - 0.0
+pass@1:plausible pathces - 12, total  problems - 217, correctness pecent - 0.055299539170506916
+pass@2:plausible pathces - 32, total  problems - 217, correctness pecent - 0.14746543778801843
+pass@3:plausible pathces - 49, total  problems - 217, correctness pecent - 0.22580645161290322
+pass@4:plausible pathces - 59, total  problems - 217, correctness pecent - 0.271889400921659
+pass@5:plausible pathces - 69, total  problems - 217, correctness pecent - 0.31797235023041476
+pass@6:plausible pathces - 75, total  problems - 217, correctness pecent - 0.3456221198156682
+pass@7:plausible pathces - 81, total  problems - 217, correctness pecent - 0.37327188940092165
+pass@8:plausible pathces - 84, total  problems - 217, correctness pecent - 0.3870967741935484
+pass@9:plausible pathces - 88, total  problems - 217, correctness pecent - 0.4055299539170507
+pass@10:plausible pathces - 90, total  problems - 217, correctness pecent - 0.4147465437788018

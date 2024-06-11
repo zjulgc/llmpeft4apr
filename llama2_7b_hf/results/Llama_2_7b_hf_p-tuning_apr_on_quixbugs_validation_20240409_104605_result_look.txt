@@ -1,0 +1,18 @@
+
+'======/c21071/lgc/llmpeft4apr/results/Llama_2_7b_hf_p-tuning_apr_on_quixbugs_validation_20240409_104605.json results:===='
+Model: Llama-2-7b-hf
+PEFT Method: p-tuning  
+train_dataset: apr  
+validation benchmark : quixbugs 
+validation result: 
+pass@0:plausible pathces - 0, total  problems - 40, correctness pecent - 0.0
+pass@1:plausible pathces - 0, total  problems - 40, correctness pecent - 0.0
+pass@2:plausible pathces - 1, total  problems - 40, correctness pecent - 0.025
+pass@3:plausible pathces - 1, total  problems - 40, correctness pecent - 0.025
+pass@4:plausible pathces - 1, total  problems - 40, correctness pecent - 0.025
+pass@5:plausible pathces - 1, total  problems - 40, correctness pecent - 0.025
+pass@6:plausible pathces - 1, total  problems - 40, correctness pecent - 0.025
+pass@7:plausible pathces - 1, total  problems - 40, correctness pecent - 0.025
+pass@8:plausible pathces - 1, total  problems - 40, correctness pecent - 0.025
+pass@9:plausible pathces - 1, total  problems - 40, correctness pecent - 0.025
+pass@10:plausible pathces - 1, total  problems - 40, correctness pecent - 0.025

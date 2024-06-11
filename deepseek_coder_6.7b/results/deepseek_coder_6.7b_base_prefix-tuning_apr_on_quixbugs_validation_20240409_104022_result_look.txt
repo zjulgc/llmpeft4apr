@@ -1,0 +1,18 @@
+
+'======/c21071/lgc/llmpeft4apr/results/deepseek_coder_6.7b_base_prefix-tuning_apr_on_quixbugs_validation_20240409_104022.json results:===='
+Model: deepseek-coder-6.7b-base
+PEFT Method: prefix-tuning  
+train_dataset: apr  
+validation benchmark : quixbugs 
+validation result: 
+pass@0:plausible pathces - 0, total  problems - 40, correctness pecent - 0.0
+pass@1:plausible pathces - 0, total  problems - 40, correctness pecent - 0.0
+pass@2:plausible pathces - 17, total  problems - 40, correctness pecent - 0.425
+pass@3:plausible pathces - 19, total  problems - 40, correctness pecent - 0.475
+pass@4:plausible pathces - 24, total  problems - 40, correctness pecent - 0.6
+pass@5:plausible pathces - 25, total  problems - 40, correctness pecent - 0.625
+pass@6:plausible pathces - 29, total  problems - 40, correctness pecent - 0.725
+pass@7:plausible pathces - 30, total  problems - 40, correctness pecent - 0.75
+pass@8:plausible pathces - 30, total  problems - 40, correctness pecent - 0.75
+pass@9:plausible pathces - 30, total  problems - 40, correctness pecent - 0.75
+pass@10:plausible pathces - 30, total  problems - 40, correctness pecent - 0.75

@@ -1,0 +1,18 @@
+
+'======/c21071/lgc/llmpeft4apr/results/Llama_2_7b_hf_IA3_apr_on_humaneval_validation_20240408_025519.json results:===='
+Model: Llama-2-7b-hf
+PEFT Method: IA3  
+train_dataset: apr  
+validation benchmark : humaneval 
+validation result: 
+pass@0:plausible pathces - 0, total  problems - 163, correctness pecent - 0.0
+pass@1:plausible pathces - 12, total  problems - 163, correctness pecent - 0.0736196319018405
+pass@2:plausible pathces - 13, total  problems - 163, correctness pecent - 0.07975460122699386
+pass@3:plausible pathces - 14, total  problems - 163, correctness pecent - 0.08588957055214724
+pass@4:plausible pathces - 15, total  problems - 163, correctness pecent - 0.09202453987730061
+pass@5:plausible pathces - 15, total  problems - 163, correctness pecent - 0.09202453987730061
+pass@6:plausible pathces - 16, total  problems - 163, correctness pecent - 0.09815950920245399
+pass@7:plausible pathces - 17, total  problems - 163, correctness pecent - 0.10429447852760736
+pass@8:plausible pathces - 17, total  problems - 163, correctness pecent - 0.10429447852760736
+pass@9:plausible pathces - 17, total  problems - 163, correctness pecent - 0.10429447852760736
+pass@10:plausible pathces - 17, total  problems - 163, correctness pecent - 0.10429447852760736

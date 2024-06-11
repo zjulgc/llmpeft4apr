@@ -1,0 +1,18 @@
+
+'======/c21071/lgc/llmpeft4apr/results/CodeLlama_7b_hf_fmft_apr_on_defects4j_validation_20240408_023519.json results:===='
+Model: CodeLlama-7b-hf
+PEFT Method: fmft  
+train_dataset: apr  
+validation benchmark : defects4j 
+validation result: 
+pass@0:plausible pathces - 0, total  problems - 217, correctness pecent - 0.0
+pass@1:plausible pathces - 11, total  problems - 217, correctness pecent - 0.05069124423963134
+pass@2:plausible pathces - 17, total  problems - 217, correctness pecent - 0.07834101382488479
+pass@3:plausible pathces - 22, total  problems - 217, correctness pecent - 0.10138248847926268
+pass@4:plausible pathces - 28, total  problems - 217, correctness pecent - 0.12903225806451613
+pass@5:plausible pathces - 34, total  problems - 217, correctness pecent - 0.15668202764976957
+pass@6:plausible pathces - 35, total  problems - 217, correctness pecent - 0.16129032258064516
+pass@7:plausible pathces - 35, total  problems - 217, correctness pecent - 0.16129032258064516
+pass@8:plausible pathces - 35, total  problems - 217, correctness pecent - 0.16129032258064516
+pass@9:plausible pathces - 37, total  problems - 217, correctness pecent - 0.17050691244239632
+pass@10:plausible pathces - 38, total  problems - 217, correctness pecent - 0.17511520737327188

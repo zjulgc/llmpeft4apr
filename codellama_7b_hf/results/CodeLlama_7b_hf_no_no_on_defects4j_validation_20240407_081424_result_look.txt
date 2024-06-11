@@ -1,0 +1,18 @@
+
+'======/c21071/lgc/llmpeft4apr/results/CodeLlama_7b_hf_no_no_on_defects4j_validation_20240407_081424.json results:===='
+Model: CodeLlama-7b-hf
+PEFT Method: no  
+train_dataset: no  
+validation benchmark : defects4j 
+validation result: 
+pass@0:plausible pathces - 0, total  problems - 217, correctness pecent - 0.0
+pass@1:plausible pathces - 40, total  problems - 217, correctness pecent - 0.18433179723502305
+pass@2:plausible pathces - 54, total  problems - 217, correctness pecent - 0.2488479262672811
+pass@3:plausible pathces - 58, total  problems - 217, correctness pecent - 0.2672811059907834
+pass@4:plausible pathces - 61, total  problems - 217, correctness pecent - 0.28110599078341014
+pass@5:plausible pathces - 66, total  problems - 217, correctness pecent - 0.30414746543778803
+pass@6:plausible pathces - 69, total  problems - 217, correctness pecent - 0.31797235023041476
+pass@7:plausible pathces - 73, total  problems - 217, correctness pecent - 0.33640552995391704
+pass@8:plausible pathces - 73, total  problems - 217, correctness pecent - 0.33640552995391704
+pass@9:plausible pathces - 74, total  problems - 217, correctness pecent - 0.34101382488479265
+pass@10:plausible pathces - 75, total  problems - 217, correctness pecent - 0.3456221198156682

@@ -1,0 +1,18 @@
+
+'======/c21071/lgc/llmpeft4apr/results/CodeLlama_7b_hf_fmft_apr_on_humaneval_validation_20240410_132933.json results:===='
+Model: CodeLlama-7b-hf
+PEFT Method: fmft  
+train_dataset: apr  
+validation benchmark : humaneval 
+validation result: 
+pass@0:plausible pathces - 0, total  problems - 163, correctness pecent - 0.0
+pass@1:plausible pathces - 20, total  problems - 163, correctness pecent - 0.12269938650306748
+pass@2:plausible pathces - 28, total  problems - 163, correctness pecent - 0.17177914110429449
+pass@3:plausible pathces - 36, total  problems - 163, correctness pecent - 0.22085889570552147
+pass@4:plausible pathces - 38, total  problems - 163, correctness pecent - 0.2331288343558282
+pass@5:plausible pathces - 41, total  problems - 163, correctness pecent - 0.25153374233128833
+pass@6:plausible pathces - 46, total  problems - 163, correctness pecent - 0.2822085889570552
+pass@7:plausible pathces - 49, total  problems - 163, correctness pecent - 0.3006134969325153
+pass@8:plausible pathces - 50, total  problems - 163, correctness pecent - 0.3067484662576687
+pass@9:plausible pathces - 52, total  problems - 163, correctness pecent - 0.31901840490797545
+pass@10:plausible pathces - 52, total  problems - 163, correctness pecent - 0.31901840490797545

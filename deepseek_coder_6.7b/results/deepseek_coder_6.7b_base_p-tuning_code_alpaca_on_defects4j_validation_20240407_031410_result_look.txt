@@ -1,0 +1,18 @@
+
+'======/c21071/lgc/llmpeft4apr/results/deepseek_coder_6.7b_base_p-tuning_code_alpaca_on_defects4j_validation_20240407_031410.json results:===='
+Model: deepseek-coder-6.7b-base
+PEFT Method: p-tuning  
+train_dataset: code_alpaca  
+validation benchmark : defects4j 
+validation result: 
+pass@0:plausible pathces - 0, total  problems - 217, correctness pecent - 0.0
+pass@1:plausible pathces - 12, total  problems - 217, correctness pecent - 0.055299539170506916
+pass@2:plausible pathces - 23, total  problems - 217, correctness pecent - 0.10599078341013825
+pass@3:plausible pathces - 27, total  problems - 217, correctness pecent - 0.12442396313364056
+pass@4:plausible pathces - 32, total  problems - 217, correctness pecent - 0.14746543778801843
+pass@5:plausible pathces - 41, total  problems - 217, correctness pecent - 0.1889400921658986
+pass@6:plausible pathces - 45, total  problems - 217, correctness pecent - 0.2073732718894009
+pass@7:plausible pathces - 48, total  problems - 217, correctness pecent - 0.22119815668202766
+pass@8:plausible pathces - 51, total  problems - 217, correctness pecent - 0.2350230414746544
+pass@9:plausible pathces - 53, total  problems - 217, correctness pecent - 0.24423963133640553
+pass@10:plausible pathces - 56, total  problems - 217, correctness pecent - 0.25806451612903225
