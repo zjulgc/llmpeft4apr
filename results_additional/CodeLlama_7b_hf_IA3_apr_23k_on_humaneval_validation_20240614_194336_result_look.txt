@@ -1,0 +1,18 @@
+
+'======/home/survolt/warehouse/llmpeft4apr/results_additional/CodeLlama_7b_hf_IA3_apr_23k_on_humaneval_validation_20240614_194336.json results:===='
+Model: CodeLlama-7b-hf
+PEFT Method: IA3  
+train_dataset: apr_23k  
+validation benchmark : humaneval 
+validation result: 
+pass@0:plausible pathces - 0, total  problems - 163, correctness pecent - 0.0
+pass@1:plausible pathces - 40, total  problems - 163, correctness pecent - 0.24539877300613497
+pass@2:plausible pathces - 59, total  problems - 163, correctness pecent - 0.3619631901840491
+pass@3:plausible pathces - 71, total  problems - 163, correctness pecent - 0.43558282208588955
+pass@4:plausible pathces - 79, total  problems - 163, correctness pecent - 0.48466257668711654
+pass@5:plausible pathces - 88, total  problems - 163, correctness pecent - 0.5398773006134969
+pass@6:plausible pathces - 90, total  problems - 163, correctness pecent - 0.5521472392638037
+pass@7:plausible pathces - 92, total  problems - 163, correctness pecent - 0.5644171779141104
+pass@8:plausible pathces - 94, total  problems - 163, correctness pecent - 0.5766871165644172
+pass@9:plausible pathces - 94, total  problems - 163, correctness pecent - 0.5766871165644172
+pass@10:plausible pathces - 95, total  problems - 163, correctness pecent - 0.5828220858895705

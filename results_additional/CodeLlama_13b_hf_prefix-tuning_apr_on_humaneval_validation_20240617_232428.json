@@ -1,0 +1,125 @@
+{
+  "patch_file": "/home/survolt/warehouse/llmpeft4apr/results_additional/CodeLlama-13b-hf_prefix-tuning_apr_on_humaneval_output_20240617_204159.json",
+  "data": {
+    "HAS_CLOSE_ELEMENTS": {
+      "0": "plausible",
+      "1": "plausible",
+      "2": "plausible",
+      "3": "plausible",
+      "4": "plausible",
+      "5": "uncompilable",
+      "6": "plausible",
+      "7": "wrong",
+      "8": "plausible",
+      "9": "uncompilable"
+    },
+    "SEPARATE_PAREN_GROUPS": {
+      "0": "plausible",
+      "1": "plausible",
+      "2": "plausible",
+      "3": "wrong",
+      "4": "wrong",
+      "5": "wrong",
+      "6": "wrong",
+      "7": "wrong",
+      "8": "wrong",
+      "9": "plausible"
+    },
+    "TRUNCATE_NUMBER": {
+      "0": "wrong",
+      "1": "wrong",
+      "2": "uncompilable",
+      "3": "wrong",
+      "4": "uncompilable",
+      "5": "uncompilable",
+      "6": "uncompilable",
+      "7": "uncompilable",
+      "8": "uncompilable",
+      "9": "uncompilable"
+    },
+    "BELOW_ZERO": {
+      "0": "wrong",
+      "1": "wrong",
+      "2": "wrong",
+      "3": "wrong",
+      "4": "wrong",
+      "5": "wrong",
+      "6": "wrong",
+      "7": "wrong",
+      "8": "wrong",
+      "9": "wrong"
+    },
+    "MEAN_ABSOLUTE_DEVIATION": {
+      "0": "wrong",
+      "1": "wrong",
+      "2": "wrong",
+      "3": "wrong",
+      "4": "wrong",
+      "5": "wrong",
+      "6": "wrong",
+      "7": "wrong",
+      "8": "wrong",
+      "9": "uncompilable"
+    },
+    "INTERSPERSE": {
+      "0": "plausible",
+      "1": "plausible",
+      "2": "plausible",
+      "3": "plausible",
+      "4": "plausible",
+      "5": "plausible",
+      "6": "plausible",
+      "7": "plausible",
+      "8": "plausible",
+      "9": "plausible"
+    },
+    "PARSE_NESTED_PARENS": {
+      "0": "plausible",
+      "1": "plausible",
+      "2": "wrong",
+      "3": "wrong",
+      "4": "plausible",
+      "5": "plausible",
+      "6": "wrong",
+      "7": "plausible",
+      "8": "plausible",
+      "9": "wrong"
+    },
+    "FILTER_BY_SUBSTRING": {
+      "0": "plausible",
+      "1": "plausible",
+      "2": "plausible",
+      "3": "plausible",
+      "4": "plausible",
+      "5": "plausible",
+      "6": "plausible",
+      "7": "plausible",
+      "8": "plausible",
+      "9": "wrong"
+    },
+    "SUM_PRODUCT": {
+      "0": "wrong",
+      "1": "wrong",
+      "2": "plausible",
+      "3": "wrong",
+      "4": "plausible",
+      "5": "wrong",
+      "6": "plausible",
+      "7": "plausible",
+      "8": "uncompilable",
+      "9": "wrong"
+    },
+    "ROLLING_MAX": {
+      "0": "plausible",
+      "1": "wrong",
+      "2": "plausible",
+      "3": "plausible",
+      "4": "plausible",
+      "5": "uncompilable",
+      "6": "plausible",
+      "7": "plausible",
+      "8": "wrong",
+      "9": "plausible"
+    }
+  }
+}

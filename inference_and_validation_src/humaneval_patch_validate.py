@@ -71,11 +71,20 @@ def validate_humaneval(
             if model_type == 'deepseek-coder-6.7b-base':
                 end_bucket = patch.rfind('}')
                 patch = patch[:end_bucket+1]
-            patch_prefix = open(benchmark_dir + f'src_bak/main/java/{benchmark_name}/buggy/' + proj + '.java', 'r').read().split('public class')[0]
+            buggy_code = open(benchmark_dir + f'src_bak/main/java/{benchmark_name}/buggy/' + proj + '.java', 'r').read()
+            buggy_lines = buggy_code.split('\n')
+
+            start_line_index = model_output['data'][proj]['function range'].split('-')[0]
+            start_line_index = int(start_line_index.split(',')[0])
+            end_line_index = model_output['data'][proj]['function range'].split('-')[1]
+            end_line_index = int(end_line_index.split(',')[0])
+
+            patch_prefix = '\n'.join(buggy_lines[:start_line_index-1])
+            patch_suffix = '\n'.join(buggy_lines[end_line_index:])
 
             filename = benchmark_dir + f'src/main/java/{benchmark_name}/buggy/' + proj + '.java'
 
-            open(filename, 'w').write(patch_prefix + f'public class {proj} ' + '{\n' + patch + '\n}')
+            open(filename, 'w').write(patch_prefix + '\n' + patch + '\n' + patch_suffix)
             correctness = humaneval_test_suite(proj, benchmark_dir)
             if correctness == 'plausible':
                 if not current_is_correct:

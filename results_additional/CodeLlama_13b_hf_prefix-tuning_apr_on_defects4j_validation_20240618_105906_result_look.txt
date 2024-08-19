@@ -1,0 +1,18 @@
+
+'======/home/survolt/warehouse/llmpeft4apr/results_additional/CodeLlama_13b_hf_prefix-tuning_apr_on_defects4j_validation_20240618_105906.json results:===='
+Model: CodeLlama-13b-hf
+PEFT Method: prefix-tuning  
+train_dataset: apr  
+validation benchmark : defects4j 
+validation result: 
+pass@0:plausible pathces - 0, total  problems - 217, correctness pecent - 0.0
+pass@1:plausible pathces - 26, total  problems - 217, correctness pecent - 0.11981566820276497
+pass@2:plausible pathces - 36, total  problems - 217, correctness pecent - 0.16589861751152074
+pass@3:plausible pathces - 39, total  problems - 217, correctness pecent - 0.17972350230414746
+pass@4:plausible pathces - 45, total  problems - 217, correctness pecent - 0.2073732718894009
+pass@5:plausible pathces - 47, total  problems - 217, correctness pecent - 0.21658986175115208
+pass@6:plausible pathces - 52, total  problems - 217, correctness pecent - 0.23963133640552994
+pass@7:plausible pathces - 53, total  problems - 217, correctness pecent - 0.24423963133640553
+pass@8:plausible pathces - 54, total  problems - 217, correctness pecent - 0.2488479262672811
+pass@9:plausible pathces - 56, total  problems - 217, correctness pecent - 0.25806451612903225
+pass@10:plausible pathces - 57, total  problems - 217, correctness pecent - 0.2626728110599078

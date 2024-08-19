@@ -1,0 +1,18 @@
+
+'======/home/survolt/warehouse/llmpeft4apr/results_additional/CodeLlama_13b_hf_p-tuning_apr_epoch_13_on_humaneval_validation_20240619_202633.json results:===='
+Model: CodeLlama-13b-hf
+PEFT Method: p-tuning  
+train_dataset: apr_epoch_13  
+validation benchmark : humaneval 
+validation result: 
+pass@0:plausible pathces - 0, total  problems - 163, correctness pecent - 0.0
+pass@1:plausible pathces - 0, total  problems - 163, correctness pecent - 0.0
+pass@2:plausible pathces - 0, total  problems - 163, correctness pecent - 0.0
+pass@3:plausible pathces - 0, total  problems - 163, correctness pecent - 0.0
+pass@4:plausible pathces - 0, total  problems - 163, correctness pecent - 0.0
+pass@5:plausible pathces - 0, total  problems - 163, correctness pecent - 0.0
+pass@6:plausible pathces - 0, total  problems - 163, correctness pecent - 0.0
+pass@7:plausible pathces - 0, total  problems - 163, correctness pecent - 0.0
+pass@8:plausible pathces - 0, total  problems - 163, correctness pecent - 0.0
+pass@9:plausible pathces - 0, total  problems - 163, correctness pecent - 0.0
+pass@10:plausible pathces - 0, total  problems - 163, correctness pecent - 0.0
