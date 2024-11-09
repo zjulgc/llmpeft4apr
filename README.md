@@ -24,6 +24,10 @@
 
 - Java 8
 
+## About PEFT weights  
+
+- We have released 4 PEFT weights of each base model on HuggingFace, trained on APR-INSTRUCTION dataset.
+- [PEFT Weights here](https://huggingface.co/survoltli/llmpeft4apr)
 
 
 ## Content
